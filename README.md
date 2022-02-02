@@ -6,7 +6,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
+ 
  
 </head>
 
@@ -41,15 +41,15 @@
       <li>Facebook<a href="https://www.facebook.com/angel.roque.3304">@angellroque</a></li>
     </ul>
 
-    <p>
+    
       Email:
       <a href="mailto:angel.roquemorataya@gmail.com">
         angel.roquemorataya@gmail.com
       </a>
-    </p>
-    <p>
+    
+    
       Copyright 1999-2021 Angel Roque. Todos los derechos reservados.
-    </p>
+    
   </footer>
 </body>
 
