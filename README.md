@@ -26,7 +26,7 @@
     <p>Angel es una persona que trabaja en la industria del software</p>
 
     <p>Le encanta el lenguaje javascript y su framework frontend favorito es vueJS</p>
-  </header>
+  
   <p> Angel está realizando un codigo bootcamp online gratuito</p>
 
   <footer>
