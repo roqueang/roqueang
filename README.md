@@ -18,7 +18,7 @@
   </main>
   <header>
     <h3>Acerca de mi:</h3>
-    <h3>Soy desarrollador de software, me gradué de ingeniería de sistemas </h3>
+    <h3>Soy desarrollador de software, Estudiante de ingeniería de sistemas </h3>
   </header>
 	<a href="https://www.facebook.com/angel.roque.3304" target="_blank">
       
