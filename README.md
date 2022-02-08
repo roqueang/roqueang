@@ -18,16 +18,15 @@
   </main>
   <header>
     <h3>Acerca de mi:</h3>
-    <p>Soy desarrollador de software, me gradué de ingeniería de sistemas </p>
+    <h3>Soy desarrollador de software, me gradué de ingeniería de sistemas </h3>
   </header>
 	<a href="https://www.facebook.com/angel.roque.3304" target="_blank">
       
   <header>
     <p>Angel es una persona que trabaja en la industria del software</p>
 
-    <p>Le encanta el lenguaje javascript y su framework frontend favorito es vueJS</p>
-  
-  <p> Angel está realizando un codigo bootcamp online gratuito</p>
+ 
+  <p> Está realizando un codigo bootcamp online gratuito</p>
 
   <footer>
     Redes sociales de Angel:
@@ -39,13 +38,14 @@
       </li>
       <li>Instragram<a href="https://instagram.com/aangroque_">@aangroque_</a></li>
       <li>Facebook<a href="https://www.facebook.com/angel.roque.3304">@angellroque</a></li>
+	    <li>  Email:
+      <a href="mailto:angel.roquemorataya@gmail.com">
+        angel.roquemorataya@gmail.com
+		    </a></li>
     </ul>
 
     
-      Email:
-      <a href="mailto:angel.roquemorataya@gmail.com">
-        angel.roquemorataya@gmail.com
-      </a>
+    
     
     
       Copyright 1999-2021 Angel Roque. Todos los derechos reservados.
