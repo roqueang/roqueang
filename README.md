@@ -23,7 +23,6 @@
 	<a href="https://www.facebook.com/angel.roque.3304" target="_blank">
       
   <header>
-    <p>Angel es una persona que trabaja en la industria del software</p>
 
  
   <p> Está realizando un codigo bootcamp online gratuito</p>
